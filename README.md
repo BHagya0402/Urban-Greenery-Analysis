@@ -36,3 +36,5 @@ o	Using Overpass API, 27,521 building geometries were extracted.
 
 o	Proximity to trees in good condition was calculated for each building.
 o	Buildings were classified based on whether they were within 100 meters of a tree in good condition.
+
+![Access](https://github.com/BHagya0402/Urban-Greenery-Analysis/blob/main/Access.png)
