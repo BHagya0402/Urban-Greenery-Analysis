@@ -10,6 +10,8 @@ o	Calculated as the ratio of total trees to ward population for boroughs in Lond
 
 o	Highlighted boroughs with higher and lower trees per capita using the Choropleth map
 
+![Urban Greenery Map](https://github.com/BHagya0402/Urban-Greenery-Analysis/blob/main/Greenery_analysis.png)
+
 **2.	Tree Condition Analysis – Kingston upon Thames:**
 
 o	The dataset categorises trees based on their condition (Good, Reasonable, Poor, and Dead).
